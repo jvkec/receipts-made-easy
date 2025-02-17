@@ -1,5 +1,5 @@
 import pytest
-from app import extract_items_from_text
+from .app import extract_items_from_text
 
 def test_basic_item_extraction():
     sample_text = """
