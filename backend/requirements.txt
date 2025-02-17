@@ -7,4 +7,4 @@ pytesseract==0.3.13
 numpy==2.0.2
 pytest==8.0.0
 pytest-cov==4.1.0
-google-cloud-vision==3.5.0 
+google-cloud-vision==3.5.0
